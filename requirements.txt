@@ -1,17 +1,17 @@
-langchain==1.2.7
-python-dotenv==1.2.1
-langchain-core==1.2.7
-streamlit==1.53.1
 beautifulsoup4
 fastapi
 html5lib
 jinja2
+langchain
 langchain-astradb
+langchain_core
 langchain-google-genai
 langchain-groq
 lxml
+python-dotenv
 python-multipart
 selenium
+streamlit
 undetected-chromedriver
 uvicorn
 structlog
@@ -21,4 +21,4 @@ langchain-mcp-adapters
 mcp
 ddgs
 langchain-openai
--e .
+#-e .
