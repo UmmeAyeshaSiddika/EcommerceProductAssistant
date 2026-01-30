@@ -2,4 +2,23 @@ langchain==1.2.7
 python-dotenv==1.2.1
 langchain-core==1.2.7
 streamlit==1.53.1
-ipykernel
+beautifulsoup4
+fastapi
+html5lib
+jinja2
+langchain-astradb
+langchain-google-genai
+langchain-groq
+lxml
+python-multipart
+selenium
+undetected-chromedriver
+uvicorn
+structlog
+langgraph
+ragas
+langchain-mcp-adapters
+mcp
+ddgs
+langchain-openai
+-e .
